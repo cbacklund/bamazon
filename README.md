@@ -21,4 +21,4 @@ This command must be run in the command line for the application to start:
 
 You can watch the demo of the Bamazon CLI output at the link below. 
 
-[Bamazon Demo](https://drive.google.com/open?id=0Bz24wWbZ1MCcdHpYRmhWRldGeWc)
+[Bamazon Demo](https://drive.google.com/file/d/1UZw8NOY41Ef1yQYKutDIyVsDMuFokosK/view)
